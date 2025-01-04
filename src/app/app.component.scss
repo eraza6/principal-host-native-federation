@@ -1,0 +1,14 @@
+:root {
+    background-color: aqua;
+} 
+
+.title {
+   color: #0039a6;
+}
+
+  :host {
+    display: block;
+    height: 100vh; /* Asegura que tome toda la altura de la ventana */
+    background-color: #0039a6;
+    background-size: cover;
+  }
