@@ -1,6 +1,8 @@
 # PrincipalHost
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
+Este se basa en un reto técnico sobre crear un proyecto con angular 17+ y angular material, el proyecto debe tener una pantalla principal desde el cual se invoque a un CRUD, para la presentación del mantenimiento debe ser un microfrontend basado en buenas prácticas de desarrollo, performance y acompañado de sus pruebas unitarias.
+PrincipalHost es el Host o Shell principal donde llamara al microfrontend.
 
 ## Development server
 
